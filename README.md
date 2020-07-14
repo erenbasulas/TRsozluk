@@ -1,7 +1,7 @@
 # TRsozluk
 *TRsozluk*, [TDK Güncel Türkçe Sözlük'ün](https://sozluk.gov.tr) "Headless Chrome" yardımı ile komut satırı üzerinde kullanılmasını sağlar.
 
-![TRsozluk Gorsel](https://github.com/erenbasulas/TRsozluk/tree/master/gorsel/sozluk.png)
+![TRsozluk Gorsel](https://github.com/erenbasulas/TRsozluk/blob/master/gorsel/sozluk.png?raw=true)
 
 
 # Kurulum:
