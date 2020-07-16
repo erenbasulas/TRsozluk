@@ -32,7 +32,7 @@ ${ECHO} "	                   ██ ██    ██  █     ██    ██  
 ${ECHO} "	               ██████ ████████ ██████ █████ ███████ ██   ██                "
 
 ${ECHO} ""
-${ECHO} $green"                                                             Versiyon: "$pink"1.0\n"
+${ECHO} $green"                                                             Versiyon: "$pink"1.1\n"
 sleep 0.1
 ${ECHO} $green"              Bilgiler, TDK'nin sitesinden alınmaktadır. ("$pink"https://sozluk.gov.tr"$green")"
 sleep 0.1

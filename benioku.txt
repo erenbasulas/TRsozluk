@@ -1,8 +1,13 @@
-|Son güncelleme: 14/07/2020|
+|Son güncelleme: 16/07/2020|
 
 
 - Python3 ve üst sürümleriyle uyumludur.
 
+
+|GÜNCELLEME DETAYLARI|
+_______________________________________________
+
+(1.1) --> Bundan böyle "ctrl + c" kısayoluyla çıkış yapıldığında error mesajı yerine daha güzel bir söz yazıyor.
 
 
 |NOTLAR|

@@ -7,7 +7,8 @@ from IPython.display import display
 import requests
 from os import system, name
 import webbrowser
-
+from signal import signal, SIGINT
+from sys import exit
 
 def sor_func():
 	ayarlar = webdriver.ChromeOptions()
@@ -212,6 +213,13 @@ def gunAt_func():
 	else:
 		print('Bu hata mesajını görüyorsanız bilmediğim bir sorunla karşı karşıyasınız demektir.')
 		print('\n\n')
+
+def ctrlcFunc(signal_received, frame):
+	print('\n\n\nHoşça kal\n\n')
+	exit()
+
+if __name__ == '__main__':
+	signal(SIGINT, ctrlcFunc)
 
 def clear():
 	system('clear')
